@@ -7,7 +7,7 @@
             "args": [
                 "-o",
                 "main", // 执行文件名称
-                "main.cpp", // 需要执行的源文件
+                "quicksort/main.cpp", // 需要执行的源文件
                 "-g",
                 "-v"
             ],
