@@ -7,7 +7,7 @@
             "args": [
                 "-o",
                 "main", // 执行文件名称
-                "sort/selection_sort/main.cpp", // 需要执行的源文件
+                "struct/hash_map/main.cpp", // 需要执行的源文件
                 "-g",
                 "-v"
             ],
