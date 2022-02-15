@@ -7,7 +7,7 @@
             "args": [
                 "-o",
                 "main", // 执行文件名称
-                "struct/hash_map/main.cpp", // 需要执行的源文件
+                "struct/graph/breadth_first_search.cpp", // 需要执行的源文件
                 "-g",
                 "-v"
             ],
